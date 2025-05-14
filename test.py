@@ -1,5 +1,5 @@
 def laskuri():
-    laskuri = 1
+    laskuri = 2
     print("Yksinkertainen laskuri. Paina Enter lisätäksesi. Kirjoita 'q' lopettaaksesi.")
     
     while True:
